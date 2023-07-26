@@ -1,6 +1,4 @@
-// Ricardo Lemus
-// class account number: cssc0329
-// Student ID: 821687094
+
 #ifndef ORD_PQ_H
 #define ORD_PQ_H
 
